@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "askOHfSuClNQs+dxLlVXEDaS/dz0xUuou8td8xzrqt2+MRWfBF3PHzUV+1AkuM4KK2Y6DPxdUh1oFbLbMUNi2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\themhz\\source\\repos\\ConsoleApp3\\ConsoleApp3\\DemoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\themhz\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\themhz\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
